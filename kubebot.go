@@ -44,6 +44,10 @@ var (
 			"-f":         true,
 			"--filename": true,
 		},
+		"set": map[string]bool{
+			"-f":         true,
+			"--filename": true,
+		},
 		"replace": map[string]bool{
 			"-f":         true,
 			"--filename": true,
